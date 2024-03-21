@@ -1,0 +1,2 @@
+# repositorio-sincronizado
+ sincronizado
